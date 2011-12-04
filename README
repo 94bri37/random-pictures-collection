@@ -1,2 +1,7 @@
 JQuery code for a random pictures collection with  fade effects. 
 
+Please, don't forget to put a link with the JQuery source 
+ex.: <script type="text/JavaScript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+Define a width and a height for your pictures because there is a bug with Google Chrome
+
