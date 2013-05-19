@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>random picture collection</title>
+	<!--<title>random picture collection</title>-->
 	<script type="text/JavaScript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 	<script src="script.js"></script>
 	<link href="style.css" rel="stylesheet" />
